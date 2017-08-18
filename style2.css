@@ -1,0 +1,7 @@
+.purplebox {
+        background-color: purple; 
+        border: 10px solid black;
+        min-height: 100px;
+        min-width: 400px;
+        color: black !important;
+}
